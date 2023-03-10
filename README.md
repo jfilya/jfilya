@@ -2,7 +2,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfilya&theme=tokyonight" width="685px"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jfilya&theme=tokyonight"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfilya&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfilya&theme=tokyonight"/>&nbsp;
 
 ### :fire: Сodewars :
 [![codewars](https://www.codewars.com/users/jfilya/badges/large)](https://www.codewars.com/users/jfilya)
