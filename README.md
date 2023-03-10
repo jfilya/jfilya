@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&color=BF91F3&background=FFFFFF00&center=true&vCenter=true&lines=Hi+there!+I%60m+Julia;Frontend+Developer)](https://git.io/typing-svg)
-<center>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfilya&theme=tokyonight" width="685px"/>&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jfilya&theme=tokyonight"/>&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfilya&theme=tokyonight"/>&nbsp;
-<center>
+
 ### :fire: Сodewars :
 [![codewars](https://www.codewars.com/users/jfilya/badges/large)](https://www.codewars.com/users/jfilya)
 
