@@ -2,7 +2,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfilya&theme=tokyonight" width="685px"/>&nbsp;
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jfilya&theme=tokyonight"/>&nbsp;
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfilya&theme=tokyonight"/>&nbsp;
 </div>
 
